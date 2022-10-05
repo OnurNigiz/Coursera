@@ -1,2 +1,2 @@
 # Coursera
-The repo I created for Coursera trainings
+The repo I created for Coursera trainings.
